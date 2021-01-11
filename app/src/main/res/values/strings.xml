@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="search_hint">Искать город</string>
+
+    <!--Направление ветра-->
+    <string name="direction_sv">СВ</string>
+    <string name="direction_v">В</string>
+    <string name="direction_yv">ЮВ</string>
+    <string name="direction_y">Ю</string>
+    <string name="direction_yz">ЮЗ</string>
+    <string name="direction_z">З</string>
+    <string name="direction_sz">СЗ</string>
+    <string name="direction_s">С</string>
+
+</resources>

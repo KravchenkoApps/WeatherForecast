@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485331949207",
+    "firebase_url": "https://weatherforecast-d211d-default-rtdb.firebaseio.com",
+    "project_id": "weatherforecast-d211d",
+    "storage_bucket": "weatherforecast-d211d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485331949207:android:732b2497cbc92548ed7bd2",
+        "android_client_info": {
+          "package_name": "ru.kravchenkoapps.retrofitsample2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485331949207-ed9hs0lo9iel8k5vnvdjia5n90gk85cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qd2bROXtZnrr1l5HKcbPZYj4vqwAHqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485331949207-ed9hs0lo9iel8k5vnvdjia5n90gk85cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
