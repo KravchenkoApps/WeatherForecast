@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvFeelTemp, tvCity, tvDate, tvTemp, tvWind, tvHumidity, tvPressure, tvWindDir,
             tvDescription;
     private ImageView ivRain;
-    private String cityName;
+    String cityName;
     private Double coordLat, coordLon;
     private EditText edLat, edLon;
     MessagesApi messagesApi;
